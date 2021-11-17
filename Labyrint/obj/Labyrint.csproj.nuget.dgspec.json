@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\PROG1\\Labyrint\\Labyrint\\Labyrint.csproj": {}
+    "C:\\PROG1\\Labyrint\\Labyrint\\Labyrint.csproj": {}
   },
   "projects": {
-    "c:\\PROG1\\Labyrint\\Labyrint\\Labyrint.csproj": {
+    "C:\\PROG1\\Labyrint\\Labyrint\\Labyrint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\PROG1\\Labyrint\\Labyrint\\Labyrint.csproj",
+        "projectUniqueName": "C:\\PROG1\\Labyrint\\Labyrint\\Labyrint.csproj",
         "projectName": "Labyrint",
-        "projectPath": "c:\\PROG1\\Labyrint\\Labyrint\\Labyrint.csproj",
+        "projectPath": "C:\\PROG1\\Labyrint\\Labyrint\\Labyrint.csproj",
         "packagesPath": "C:\\Users\\olle.brinkwennberg\\.nuget\\packages\\",
-        "outputPath": "c:\\PROG1\\Labyrint\\Labyrint\\obj\\",
+        "outputPath": "C:\\PROG1\\Labyrint\\Labyrint\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

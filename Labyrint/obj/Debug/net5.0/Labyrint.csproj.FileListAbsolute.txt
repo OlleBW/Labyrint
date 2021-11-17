@@ -1,0 +1,16 @@
+C:\PROG1\Labyrint\Labyrint\bin\Debug\net5.0\Labyrint.exe
+C:\PROG1\Labyrint\Labyrint\bin\Debug\net5.0\Labyrint.deps.json
+C:\PROG1\Labyrint\Labyrint\bin\Debug\net5.0\Labyrint.runtimeconfig.json
+C:\PROG1\Labyrint\Labyrint\bin\Debug\net5.0\Labyrint.runtimeconfig.dev.json
+C:\PROG1\Labyrint\Labyrint\bin\Debug\net5.0\Labyrint.dll
+C:\PROG1\Labyrint\Labyrint\bin\Debug\net5.0\ref\Labyrint.dll
+C:\PROG1\Labyrint\Labyrint\bin\Debug\net5.0\Labyrint.pdb
+C:\PROG1\Labyrint\Labyrint\obj\Debug\net5.0\Labyrint.csprojAssemblyReference.cache
+C:\PROG1\Labyrint\Labyrint\obj\Debug\net5.0\Labyrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROG1\Labyrint\Labyrint\obj\Debug\net5.0\Labyrint.AssemblyInfoInputs.cache
+C:\PROG1\Labyrint\Labyrint\obj\Debug\net5.0\Labyrint.AssemblyInfo.cs
+C:\PROG1\Labyrint\Labyrint\obj\Debug\net5.0\Labyrint.csproj.CoreCompileInputs.cache
+C:\PROG1\Labyrint\Labyrint\obj\Debug\net5.0\Labyrint.dll
+C:\PROG1\Labyrint\Labyrint\obj\Debug\net5.0\ref\Labyrint.dll
+C:\PROG1\Labyrint\Labyrint\obj\Debug\net5.0\Labyrint.pdb
+C:\PROG1\Labyrint\Labyrint\obj\Debug\net5.0\Labyrint.genruntimeconfig.cache
